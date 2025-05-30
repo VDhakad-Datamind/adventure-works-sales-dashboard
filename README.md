@@ -45,3 +45,9 @@ These dashboards help answer:
 - **Custom Visual Design** using Excel shapes and formatting
 
 ---
+
+## Time Series Dashboard
+![Time Series Dashboard](https://github.com/VDhakad-Datamind/adventure-works-sales-dashboard/blob/main/Time%20Series%20Dashboard%20pic.png)
+
+## Detail Dashboard
+![Detail Dashboard](https://github.com/VDhakad-Datamind/adventure-works-sales-dashboard/blob/main/Detail%20Dashboard%20pic.png)
